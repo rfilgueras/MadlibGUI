@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+  * Rhona Jessica Filgueras
+  * December 14, 2020
+  *
+  * code derived from https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp/windows-forms-mvc?u=2243042
+  *
+  */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
