@@ -1,0 +1,10 @@
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\bin\Debug\WinFormsMVC.exe.config
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\bin\Debug\WinFormsMVC.exe
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\bin\Debug\WinFormsMVC.pdb
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\obj\Debug\WinFormsMVC.Properties.Resources.resources
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\obj\Debug\WinFormsMVC.FirstForm.resources
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\obj\Debug\WinFormsMVC.View.SecondForm.resources
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\obj\Debug\Madlib.csproj.GenerateResource.cache
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\obj\Debug\Madlib.csproj.CoreCompileInputs.cache
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\obj\Debug\WinFormsMVC.exe
+C:\Users\rhonafilgueras\source\repos\MadlibGUI\WinFormsMVC\obj\Debug\WinFormsMVC.pdb
